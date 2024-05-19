@@ -2,7 +2,6 @@ function alo()
 {
     alert('hello');
 }
-var num1 = 5;
-var num2 = 3;
-
-var result = num1 * num2;
+function kali(p1, p2) {
+    return p1 * p2;
+}
