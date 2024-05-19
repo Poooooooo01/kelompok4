@@ -1,4 +1,4 @@
 function alo()
 {
-    alert('hello kelompok 4');
+    alert('hello duulur kelompok 4 ');
 }
